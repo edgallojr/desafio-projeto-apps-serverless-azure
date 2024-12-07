@@ -4,7 +4,7 @@ Neste projeto, veremos as diferenças funcionais entre o Azure Functions, os Apl
 
 
 ## Desenho da Solução Proposta
-![image](source/DesenhoSolucao.png)
+![image](/DesenhoSolucao.png)
 
 
 ## Http Trigger
